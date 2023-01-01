@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1, 2023 
+
+**Today's Progress**: Went through a few exercises on LeetCode
+
+**Link to work:** 
+1. [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/868784795/)
+2. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/868785370/)
+<!---##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -28,3 +34,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+--->
