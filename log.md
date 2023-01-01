@@ -4,7 +4,7 @@
 
 **Today's Progress**: Went through a few exercises on LeetCode. Learnt about CTE and rank() in MySQL.
 
-**Link to work:** 
+**Links to work:** 
 1. [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/868784795/)
 2. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/868785370/)
 3. [Second highest salary](https://leetcode.com/problems/second-highest-salary/submissions/868821254/)
