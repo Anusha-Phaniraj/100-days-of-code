@@ -12,6 +12,9 @@
 ### Day 2: January 2, 2023
 
 **Today's Progress**: Went through a few string and linked list exercises on LeetCode.
+
+**Links to work:** 
+1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/869746117/)
 <!---##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
