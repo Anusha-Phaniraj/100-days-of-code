@@ -16,6 +16,15 @@
 **Links to work:** 
 1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/869746117/)
 2. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/submissions/869772761/)
+
+### Day 3: January 3, 2023
+
+**Today's Progress**: Worked on DBMS project
+
+### Day 4: January 4, 2023
+
+**Today's Progress**:
+
 <!---##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
